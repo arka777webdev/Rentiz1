@@ -436,6 +436,7 @@ body._lock {
 .featured__item {
   flex: 0 0 auto;
 }
+
 /*--------------------/Featured--------------------*/
 /*--------------------Popular--------------------*/
 .popular {
@@ -559,6 +560,7 @@ body._lock {
     flex-direction: column;
   }
 }
+
 .item-why {
   display: flex;
   align-items: center;
@@ -633,6 +635,7 @@ body._lock {
   text-transform: capitalize;
   color: var(--accent-color);
 }
+
 .slider-reviews__text {
   font-size: clamp(1.25rem, 1.032rem + 1.09vw, 2rem);
   line-height: 1.57;
