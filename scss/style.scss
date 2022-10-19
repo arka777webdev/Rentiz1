@@ -14,9 +14,12 @@ ul {
 }
 
 :root {
-	--bg-color: #121b25;
-	--accent-color: #1aa090;
-	--text-color: #d6d6d6;
+	--bg-color: #b3bfcd;
+	// --bg-color: #121b25;
+	// --accent-color: #1aa090;
+	--accent-color: #63b59f;
+	// --text-color: #d6d6d6;
+	--text-color: #f2ebeb;
 }
 
 body {
@@ -729,6 +732,7 @@ body {
 }
 
 .slider-reviews-btn {
+	cursor: pointer;
 	&.swiper-button-disabled {
 		svg {
 			fill: #767f89;
